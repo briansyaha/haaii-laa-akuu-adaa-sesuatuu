@@ -67,8 +67,8 @@
     Selamat National Girlfriend Day laaaaa 💖</p>
   </div>
 
-  <img src="IMG-20250719-WA0012.jpg" alt="">
-  <img src="IMG-20250719-WA0010.jpg" alt="">
+  <img src="IMG-20250719-WA0012.jpg" alt="foto1">
+  <img src="IMG-20250719-WA0010.jpg" alt="foto2">
 
   <audio controls autoplay loop>
     <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
