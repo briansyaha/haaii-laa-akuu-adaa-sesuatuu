@@ -72,8 +72,6 @@
 
   <audio controls autoplay loop>
     <source src="https://youtu.be/2Vv-BfVoq4g?si=nB72kpqnxIO9WB9U" type="audio/mp3">
-    Browser kamu tidak support audio.
-  </audio>
 
   <script>
     const animationContainer = document.getElementById('animation');
