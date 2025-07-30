@@ -71,7 +71,7 @@
   <img src="IMG-20250719-WA0010.jpg" alt="foto2">
 
   <audio controls autoplay loop>
-    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mp3">
+    <source src="https://youtu.be/2Vv-BfVoq4g?si=nB72kpqnxIO9WB9U" type="audio/mp3">
     Browser kamu tidak support audio.
   </audio>
 
