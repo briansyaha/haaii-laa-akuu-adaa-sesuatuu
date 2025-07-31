@@ -1,9 +1,9 @@
-# haaii-laa-akuu-adaa-sesuatuu<!DOCTYPE html>
+# haaii-laa-akuu-adaa-sesuatuu untuk kamu bacaaa
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Untuk Kelya 💖</title>
+  <title>Untuk muuu laaa</title>
   <link href="https://fonts.googleapis.com/css2?family=Pacifico&family=Open+Sans&display=swap" rel="stylesheet">
   <style>
     body {
@@ -61,10 +61,10 @@
 <body>
   <div class="animation" id="animation"></div>
 
-  <h1>Untuk Kelya 💗</h1>
+  <h1>Untukkk muuu laaaa</h1>
   <div class="message">
     <p>Jika kamu sedang merasa tidak baik-baik saja, ingatlah selalu laaaa ada aku untukmu berbagi cerita apa pun ituuu.<br>
-    Selamat National Girlfriend Day laaaaa 💖</p>
+    Selamat National Girlfriend Day laaaaa 💐.maaf yaaa akuu baruu cumaaa bisaa ngucapinnn😁(ian) </p>
   </div>
 
   <img src="IMG-20250719-WA0012.jpg" alt="foto1">
